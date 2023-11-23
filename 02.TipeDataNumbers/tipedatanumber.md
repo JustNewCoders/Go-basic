@@ -13,3 +13,15 @@
            </li>
       </ul>
 </ul>
+
+## Tipe Data Integer
+
+<table>
+    <thead>
+        <tr>
+            <th>Tipe Data</th>
+            <th>Nilai Minimum</th>
+            <th>Nilai Maksimum</th>
+        </tr>
+    </thead>
+</table>
