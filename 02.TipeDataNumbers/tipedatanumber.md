@@ -24,4 +24,11 @@
             <th>Nilai Maksimum</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td>Tipe Data</td>
+            <td>Nilai Minimum</td>
+            <td>Nilai Maksimum</td>
+        </tr>
+    </tbody>
 </table>
